@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Adnan Khalid
+    tagline: Machine Learning Researcher and Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: adnan@adnankhalid.com
+    phone: 917 293 5994
+    website: prettypositron.com
+    linkedin: akhalid16
+    github: prettypositron
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,20 +27,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Bengali
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Proficient
         
     interests:
-      - item: Climbing
+      - item: Martial Arts
         link:
 
-      - item: Snowboarding
+      - item: Weightlifting
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
@@ -55,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Physics and Biochemistry
+      university: New York University
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
