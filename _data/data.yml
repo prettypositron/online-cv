@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Adnan Khalid
+    name: Shane Khalid
     tagline: Data Scientist
     avatar: adnan.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adnan@adnankhalid.com
-    phone: 917 293 5994
-    website: prettypositron.com #do not add http://
+   # email: adnan@adnankhalid.com
+  #  phone: 917 293 5994
+ #   website: prettypositron.com #do not add http://
     linkedin: akhalid16
     github: prettypositron
     gitlab:
@@ -35,10 +35,10 @@ sidebar:
 
     interests:
       - item: Teaching
-        link: adnankhalid.com/teaching
+       # link: adnankhalid.com/teaching
 
       - item: Web Design
-        link: prettypositron.github.io/ncl2/about/#_navigation
+       # link: prettypositron.github.io/ncl2/about/#_navigation
 
       - item: Reading
         link: 
