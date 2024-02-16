@@ -43,6 +43,7 @@ sidebar:
 
       - item: Reading
         link: 
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 career-profile:
     title: Career Profile
@@ -51,9 +52,9 @@ career-profile:
       Former Scientific Researcher in Machine Learning looking to enter the private sector and finance world. Broad, interdisciplinary experience in research ranging from biomedical to cosmological. Interested primarily in the intersection of medicine, finance, and technology. 
 
 education:
-    - degree: BS in Biochemistry & Physics
+    - degree: B.S. Physics | B.S. Biochemistry
       university: New York University
-      time: 2006 - 2010
+      time: 
       details: |
        -Physics TA for Electricity & Magnetism I and Quantum Mechanics I
        -NYU Cross-Examination Debate Team: won awards at 7 tournaments including Harvard, Yale, & Princeton
