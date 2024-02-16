@@ -112,7 +112,7 @@ skills:
       - name: Deep Learning
         level: 85%
 
-      - name: MS Office Suite esp. Excel and Powerpoint
+      - name: NLP - LangChain, Vector DB, LLMs, AWS Sagemaker
         level: 98%
 
       - name: HTML5 & CSS; Data visualization
@@ -123,6 +123,7 @@ skills:
 
       - name: Probability and Statistics
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="prettypositron.com" target="_blank" rel="nofollow">Shane  Khalid</a>
