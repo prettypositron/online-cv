@@ -57,43 +57,28 @@ education:
 
 experiences:
 
-    - role: NLP Machine Learning Engineer
-      time: March 2020 - Nov 2021
-      company: Icahn School of Medicine at Mount Sinai
-      details: |
-        
-          - Implemented SIR/SEIR epidemiological models within a CNN framework and logistic regression to forecast worldwide and national COVID-19 cases and fatalities with 89% accuracy 
-          - Employed NLP, Bibliometrics, and Literature Clustering of corpus of 250k+ published papers on COVID-19, clustering topics with k-means and t-SNE which reduced processing time by 90% and computation load by 33%
-          - Performed Bioinformatic Analysis in R to draw comparisons of the COVID-19 genome to other zoonotic (animal) viruses demonstrating a 69.24% similarity to Bat SARS-like coronavirus
-         
-    - role: Software Development Engineer
-      time: May 2017 - Mar 2020
+    - role: Physical Cosmology Researcher
+      time: 2017 - 2018, 2019
       company: Division of Observational Cosmology and Particle Physics, NYU
       details: |
-       
-          - Developed algorithms to process noise on light curves of over 50K stars detected by the Kepler spacecraft to deduce the temperature fluctuations of Kepler’s photoreceptors with an increase in Signal-to-Noise Ratio (SNR) by 33.3% 
-          - Instituted median-combine using Java on over 28K short-exposure digital photographs to boost daytime star detection by 23.6%
-
-- role: Machine Learning Engineer
-      time: Jul 2018 - Jan 2019
+        
+          - Detecting stars during the day turning tens of thousands of short-exposure digital photographs into one long exposure photograph, adjusting other parameters in post-processing. Writing software to find star in every exposure, shift all exposures to place star at the same location, and use median-combine (or other method) on the shifted exposures to make an extremely sensitive exposure
+          - Using Kepler as a thermometer: dark currents produce 9.5% of the noise on lightcurves on the Kepler spacecraft, which is far more precise in flux detection and SNR than the actual temperature readings of instruments on the spacecraft. The goal of the project is to be able to deduce temperature fluctuations of the CCD photoreceptors from analysis of noise on the lightcurves of tens of thousands of stars.
+          
+          - Constructing Bayesian hierarchical models of high-energy transient phenomena (black holes, neutron stars) through X-ray data analysis as well as stellar spectroscopy and exoplanet measurement and discovery using a Pythonic pipeline for time series analysis such as Fourier analysis and (quasi-)periodicity detection.
+          - Primarily investigated Boyajian’s Star (Tabetha’s Star), which is known for aperiodic dips in luminosity, by modeling these dips as eclipses or planet transits through my hypothesis centered around it being a brown dwarf
+          
+         
+    - role: Machine Learning Researcher
+      time: 2018 - 2019
       company: Division of Behavioral Medicine, Columbia University Medical Center
       details: |
-        
-          - Transformed dataset of dopamine spikes into accurate heat maps and wavelets using OpenCV, achieving 99.5% discernibility
-          - Trained CNN and GAN using Tensorflow and Keras (VGG16) to monitor differences within a 0.044 RMSE
-          - Custom-built Data Mining computer for GPU-accelerated deep learning utilizing price trends saving 70% in cost
-          - Architected, rebuilt, and deployed lab website in full-stack improving Google PageSpeed score from 46% to 99%
+       
 
-projects:
-    title: Projects
-    intro: >
+          - Using machine learning within the context of neural circuits by creating generative adversarial networks as well as pre-trained convolutional neural networks to illuminate the neural circuit governing reinforcement learning under state uncertainty. 
+          - Rebuilt the lab’s website in full-stack: 99/100 Google PageSpeed Score, Syntax highlighting powered by Rouge, LaTeX math blocks, powered by KaTeX, built-in icons for social media, simple and semantic HTML, structured Data for core entities, Google Analytics and Google Fonts support, Disqus comments
+          - Built inexpensive supercomputer for extensive deep learning and data processing utilizing price trends
 
-    assignments:
-      - title: Sentiment Analysis and Market Forecasting
-        tagline: 
-        "- Constructed web scraping pipeline using Beautiful Soup, Selenium, and Tweepy to process over a million news headlines and financial reports, utilizing k-means and t-SNE clustering to cut manual processing time by 70% and computation load by 44%
-        "- Conducted sentiment analysis using NLTK/spaCy and FinBERT on historical financial datasets to find that asset returns have a -0.47 correlation with news data sentiment and a -0.68 correlation with twitter sentiment with accuracy of 87%
-        "- Designed and trained fully connected ensemble LSTM model using TensorFlow and PyTorch with F1 score of 0.76
 
 projects:
     title: Projects
@@ -108,7 +93,6 @@ projects:
 
       - title: Self-Learned subjects through reading and online lectures 
         tagline: "Relevant coursework includes: Probability, Statistics, Design of Algorithms, Linux, R, Bioinformatics, Windows PowerShell, Tensorflow and Keras, Cancer Genomics, Financial Analysis, Deep Learning: GANs and Variational Autoencoders, R Programming, Data visualization, Candlestick trading, Blockchain, Crypto"
-        
 
    
 
