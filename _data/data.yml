@@ -12,9 +12,10 @@ sidebar:
     avatar: adnan.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-   # email: adnan@adnankhalid.com
+    email: akhalid16@gmail.com
   #  phone: 917 293 5994
- #   website: prettypositron.com #do not add http://
+    website: prettypositron.com #do not add http://
+    website: shanethetutor.com
     linkedin: akhalid16
     github: prettypositron
     gitlab:
