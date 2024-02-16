@@ -34,7 +34,7 @@ sidebar:
 
    
 
-    technologies:
+    interests:
       - item: Teaching
        # link: adnankhalid.com/teaching
 
@@ -106,23 +106,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, Tensorflow, Keras
-        level: 90%
-
-      - name: Deep Learning
-        level: 85%
-
-      - name: MS Office Suite esp. Excel and Powerpoint
-        level: 98%
-
-      - name: HTML5 & CSS; Data visualization
+      - name: NLP: LangChain, Vector DB, LLMs, AWS Sagemaker
         level: 95%
 
-      - name: R, Linux, bioinformatics packages
-        level: 70%
+      - name: Document Extraction: Apache Nutch, JSoup
+        level: 85%
 
-      - name: Probability and Statistics
-        level: 60%
+      - name: Information Retrieval: MiniLM, Faiss, PineCone, Vespa 
+        level: 85%
+
+      - name: Pipeline Management: Flyte, Airflow, Metaflow, PySpark, Kafka
+        level: 85%
+
+      - name: Deep Learning: ARIMA, Prophet, SARIMAX for time-series forecasting
+        level: 98%
+
+      - name: Deep Learning: LGB, XGB, Catboost, Autoencoders, GAN & NN Architectures: FC, LSTM, GRU, RNN for complex data analysis and prediction
+        level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="prettypositron.com" target="_blank" rel="nofollow">Shane  Khalid</a>
