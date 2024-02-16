@@ -42,8 +42,7 @@ sidebar:
        # link: prettypositron.github.io/ncl2/about/#_navigation
 
       - item: Reading
-        link: 
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        link: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 career-profile:
     title: Career Profile
