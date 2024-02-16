@@ -26,23 +26,18 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Python
+      - idiom: Java
+      - idiom: JavaScript
+      - idiom: R
 
-      - idiom: Bengali
-        level: Fluent
-
-   
-
-    interests:
-      - item: Teaching
-       # link: adnankhalid.com/teaching
-
-      - item: Web Design
-       # link: prettypositron.github.io/ncl2/about/#_navigation
-
-      - item: Reading
-        link: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    Technologies:
+      - item: NLP
+      - item: Document Extraction
+      - item: Information Retrieval
+      - item: Pipeline Management
+      - item: Sentiment Analysis
+      - item: Deep Learning
 
 career-profile:
     title: Career Profile
