@@ -12,12 +12,13 @@ sidebar:
     avatar: adnan.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-   # email: adnan@adnankhalid.com
+    email: akhalid16@gmail.com
   #  phone: 917 293 5994
- #   website: prettypositron.com #do not add http://
+    website: prettypositron.com #do not add http://
+    website: shanethetutor.com
     linkedin: akhalid16
     github: prettypositron
-    gitlab:
+    youtube: youtube.com/@ShanetheTutor/
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -30,7 +31,7 @@ sidebar:
 
       - idiom: Bengali
         level: Fluent
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
    
 
     interests:
