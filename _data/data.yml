@@ -15,7 +15,7 @@ sidebar:
     email: akhalid16@gmail.com
   #  phone: 917 293 5994
     website: prettypositron.com #do not add http://
-    website 2: shanethetutor.com
+   # website: shanethetutor.com
     linkedin: akhalid16
     github: prettypositron
     gitlab:
@@ -35,9 +35,9 @@ sidebar:
 
     interests:
       - item: Teaching
-       # link: adnankhalid.com/teaching
+        link: shanethetutor.com
 
-      - item: Web Design
+      - item: Intra-Day Trading
        # link: prettypositron.github.io/ncl2/about/#_navigation
 
       - item: Reading
@@ -126,3 +126,4 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="prettypositron.com" target="_blank" rel="nofollow">Shane  Khalid</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e4fd203-4f4f-4d46-92c7-e4cd52b151ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
